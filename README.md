@@ -4,7 +4,7 @@ Clone this repository and create a branch with your name.
 
 ## Description
 
-You have to develop an endpoint of the API that creates a new Filmin user witht the following structure:
+You have to develop an endpoint of the API that creates a new Filmin user with the following structure:
 
 **[POST]** */users*
 
